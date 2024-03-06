@@ -4,8 +4,8 @@ I'm a passionate engineer with a bachelor in applied computer science. Currently
 ## Project Overview
 | Project | Tools | Role | Time | Context | Description | Itch Page
 | --- | --- | :---: | --- | --- | --- | --- |
-| [Arcanum Fortuna](https://github.com/DeadPigeonGames/Arcanum-Fortuna) | Godot, GDScript | Lead Engineer | 10 Weeks | S4G Semester Project | Physics-based 2D Platformer | [Play now](https://s4g.itch.io/arcanum-fortuna)
-| [Gunkey](https://github.com/bene-labs/Gunkey) | Godot, GDScript | Solo Engineer | 10 Weeks | S4G Semester Project | Roguelike Deckbuilder | [Play now](https://s4g.itch.io/gunkey)
+| [Arcanum Fortuna](https://github.com/DeadPigeonGames/Arcanum-Fortuna) | Godot, GDScript | Lead Engineer | 10 Weeks | S4G Semester Project | Roguelike Deckbuilder | [Play now](https://s4g.itch.io/arcanum-fortuna)
+| [Gunkey](https://github.com/bene-labs/Gunkey) | Godot, GDScript | Solo Engineer | 10 Weeks | S4G Semester Project | Physics-based 2D Platformer | [Play now](https://s4g.itch.io/gunkey)
 | [SlapHeads](https://github.com/Koolschrank/BlowMyMind) | Unity, C# | Lead Engineer, Production | 3 Days | Global GameJam 2024 | Topdown 3D Fighting-game | [Play now](https://bene-labs.itch.io/slap-heads)
 | [Turnip Terror](https://github.com/bene-labs/GGJ_2023) | Unity, C# | Engineer | 3 Days | Global GameJam 2023 | Party Game | [Play now](https://bene-labs.itch.io/turnip-terror)
 | [GatesNSwitches](https://github.com/bene-labs/GatesNSwitches) | Godot, GDScript | Solo Dev | 1 Week | Brackeys Game Jam 2023.2 | Logic Circuit Creation Tool | [Play now](https://bene-labs.itch.io/gatesnswitches)
