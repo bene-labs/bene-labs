@@ -1,5 +1,5 @@
 ## About me
-I'm a passionate engineer with a bachelor in applied computer science and a game engineering diploma. Currently working as Game Programmer at Sparrrow Games.
+I'm a passionate software engineer with a bachelor in applied computer science and a game engineering diploma. Currently working as Game Programmer at Sparrrow Games.
 
 ## Project Overview
 | Project | Tools | Role | Time | Context | Description | Release Page
